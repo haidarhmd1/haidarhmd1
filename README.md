@@ -1,10 +1,14 @@
-<img src="./haidar-pixel-avatar.jpg" alt="Pixel-art portrait of Haidar" width="160" />
-
 # Hey, I'm Haidar 👋
 
-**Software engineer in Berlin. I build thoughtful interfaces, AI-powered products, and playful digital worlds.**
+**Software engineer from Beirut based in Berlin. I build thoughtful interfaces, AI-powered products, and playful digital worlds.**
 
-My home base is **React, Next.js, and TypeScript**. I follow features down the stack into APIs, Prisma, and PostgreSQL when the product needs it. I enjoy working closely with designers, stakeholders, and technical leads to turn early ideas into usable experiences.
+My home base is **React, Next.js, and TypeScript**. I follow features down the stack into APIs, Prisma, and PostgreSQL when the product needs it.
+
+I work primarily with React, Next.js and TypeScript, building scalable applications, UI systems, real-time features and AI-driven experiences.
+But what keeps me interested in technology goes much deeper than a particular stack. I’m fascinated by algorithms, computer graphics, hardware,
+systems, mathematics and game development, and especially by understanding how things work beneath the surface.
+I like building, experimenting and asking the question that usually gets me into another rabbit hole:
+“What else can I make this do?”
 
 ## 🎮 Current quests
 
