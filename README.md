@@ -14,6 +14,7 @@ I like building, experimenting and asking the question that usually gets me into
 
 | Project | What I'm building | Stack |
 | --- | --- | --- |
+| [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode) | A VS Code extension that explains every function of the open file side by side: plain English, pseudo English and pseudo code, with beginner tips and an overview of the whole file. | TypeScript · VS Code Extension API · TypeScript Compiler API · Claude API |
 | [MyAnchor](https://github.com/haidarhmd1/MyAnchor-App) · [Try the app](https://app.myanchor-app.com/) | An AI-powered mobile web app with tools for people experiencing anxiety and panic. | Next.js · TypeScript · OpenAI APIs · Prisma · PostgreSQL |
 | PixelBuddy — early prototype | A pixel-art world driven by real-world activity, combining animation, simulation, and health-data integration. | React Native · Expo · Apple Health · Fastify · oRPC · Drizzle · PostgreSQL |
 
