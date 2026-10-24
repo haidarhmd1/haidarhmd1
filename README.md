@@ -1,20 +1,29 @@
 # Hey, I'm Haidar 👋
 
-**Senior Software Engineer who takes products from initial uncertainty to systems running in production.**
+**AI-native Senior Software Engineer from Beirut, based in Berlin. I take products from initial uncertainty to systems running in production.**
 
-I start by understanding the business problem, define the technical guarantees a feature needs, choose an architecture by its trade-offs, implement with AI-assisted development, then measure the result and own its operation.
+I build *with* AI and *on* AI: AI-assisted development is part of how I engineer every day, and LLMs are a core part of the products I ship. Most recently that meant AI-native product work at a Berlin startup, turning LLM outputs into structured workflows, conversational training, content generation and analytics.
 
-7+ years shipping TypeScript across React / Next.js frontends and Node.js backends with PostgreSQL. Most recently: AI-native product work at a Berlin startup, turning LLM outputs into structured workflows, conversational training, content generation and analytics.
+7+ years shipping TypeScript across React / Next.js frontends and Node.js backends with PostgreSQL. I work closely with product, design, backend, AI and QA, and with stakeholders and the CTO, to move new concepts from prototype to shipped features.
 
-I work closely with product, design, backend, AI and QA, and with stakeholders and the CTO, to move new concepts from prototype to shipped features.
+## 🧭 How I work
 
-Outside of work I design decorative 3D printed objects, customize digital synthesizers and take apart algorithms and 3D graphics for fun.
+1. Understand the business problem
+2. Define the technical guarantees a feature needs
+3. Choose an architecture by its trade-offs
+4. Implement with AI-assisted development
+5. Measure the result and own its operation
+
+## 🔧 Taking things apart
+
+I love taking tools apart to see how they really work, whether it's a synthesizer, a 3D printer, an algorithm or a piece of 3D graphics, and then asking the question that usually starts the next rabbit hole:
+**“What else can I make this do?”**
 
 ## 🎮 Current quests
 
 | Project | What I'm building | Stack |
 | --- | --- | --- |
-| [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode) | A VS Code extension that explains every function of the open file side by side: plain English, pseudo English and pseudo code, with beginner tips and an overview of the whole file. | TypeScript · VS Code Extension API · TypeScript Compiler API · Claude API |
+| [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode) | A VS Code extension that explains every function of the open file side by side: plain English, pseudo English and pseudo code. | TypeScript · VS Code API · TS Compiler API · Claude API |
 | [MyAnchor](https://github.com/haidarhmd1/MyAnchor-App) · [Try the app](https://app.myanchor-app.com/) | An AI-powered mobile web app with tools for people experiencing anxiety and panic. | Next.js · TypeScript · OpenAI APIs · Prisma · PostgreSQL |
 | PixelBuddy — early prototype | A pixel-art world driven by real-world activity, combining animation, simulation, and health-data integration. | React Native · Expo · Apple Health · Fastify · oRPC · Drizzle · PostgreSQL |
 
@@ -22,7 +31,7 @@ Outside of work I design decorative 3D printed objects, customize digital synthe
 
 **Interfaces:** React · Next.js App Router · React Native / Expo · TypeScript · Tailwind CSS · shadcn/ui  
 **Data & services:** TanStack Query · REST APIs · Node.js · Prisma · PostgreSQL  
-**AI experiences:** content-generation workflows · conversational training · assessment and feedback
+**AI:** LLM-powered workflows · structured outputs · conversational training · content generation · AI-assisted development
 
 ## 🧭 Experience
 
@@ -34,6 +43,6 @@ Outside of work I design decorative 3D printed objects, customize digital synthe
 
 ## 🎛️ Side quests
 
-Electronic music and digital synthesizers · decorative 3D printing · computer graphics · algorithms · martial arts · swimming
+Designing decorative 3D printed objects · customizing digital synthesizers · electronic music · computer graphics · algorithms · martial arts · swimming
 
 [LinkedIn](https://www.linkedin.com/in/haidarhmd) · [MyAnchor](https://app.myanchor-app.com/)
