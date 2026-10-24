@@ -1,39 +1,64 @@
+<div align="center">
+
 # Hey, I'm Haidar 👋
 
-**AI-native Senior Software Engineer from Beirut, based in Berlin. I take products from initial uncertainty to systems running in production.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=AI-native+Senior+Software+Engineer;Computer-science+enthusiast+%C2%B7+algorithms+%26+3D+graphics;I+take+things+apart+to+see+how+they+work;What+else+can+I+make+this+do%3F" alt="Typing intro" />
 
-I build *with* AI and *on* AI: AI-assisted development is part of how I engineer every day, and LLMs are a core part of the products I ship. Most recently that meant AI-native product work at a Berlin startup, turning LLM outputs into structured workflows, conversational training, content generation and analytics.
+</div>
 
-7+ years shipping TypeScript across React / Next.js frontends and Node.js backends with PostgreSQL. I work closely with product, design, backend, AI and QA, and with stakeholders and the CTO, to move new concepts from prototype to shipped features.
+```bash
+$ whoami
+haidar — AI-native Senior Software Engineer · computer-science enthusiast · tinkerer
 
-## 🧭 How I work
+$ cat location.txt
+Beirut 🇱🇧  →  Berlin 🇩🇪
 
-1. Understand the business problem
-2. Define the technical guarantees a feature needs
-3. Choose an architecture by its trade-offs
-4. Implement with AI-assisted development
-5. Measure the result and own its operation
+$ uptime
+7+ years shipping TypeScript · React / Next.js · Node.js · PostgreSQL
+```
 
-## 🔧 Taking things apart
+I build **with** AI and **on** AI: AI-assisted development is part of how I engineer every day, and LLMs are a core part of the products I ship. Most recently: AI-native product work at a Berlin startup, turning LLM outputs into structured workflows, conversational training, content generation and analytics.
 
-I love taking tools apart to see how they really work, whether it's a synthesizer, a 3D printer, an algorithm or a piece of 3D graphics, and then asking the question that usually starts the next rabbit hole:
-**“What else can I make this do?”**
+I work closely with product, design, backend, AI and QA, and with stakeholders and the CTO, to move new concepts from prototype to shipped features.
+
+## 🧠 How I work (in pseudo code, naturally)
+
+```text
+FUNCTION ship(idea)
+  1. UNDERSTAND the business problem
+  2. DEFINE the technical guarantees the feature needs
+  3. CHOOSE an architecture by its trade-offs
+  4. BUILD it with AI-assisted development
+  5. MEASURE the result and OWN it in production
+  RETURN a system running in production
+END FUNCTION
+```
+
+## 🔧 Favourite loop: taking things apart
+
+```ts
+while (curious) {
+  const thing = pick([tool, synthesizer, printer3D, algorithm, shader]);
+  takeApart(thing);          // how does it really work underneath?
+  ask("What else can I make this do?");
+}
+```
 
 ## 🎮 Current quests
 
-| Project | What I'm building | Stack |
-| --- | --- | --- |
-| [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode) | A VS Code extension that explains every function of the open file side by side: plain English, pseudo English and pseudo code. | TypeScript · VS Code API · TS Compiler API · Claude API |
-| [MyAnchor](https://github.com/haidarhmd1/MyAnchor-App) · [Try the app](https://app.myanchor-app.com/) | An AI-powered mobile web app with tools for people experiencing anxiety and panic. | Next.js · TypeScript · OpenAI APIs · Prisma · PostgreSQL |
-| PixelBuddy — early prototype | A pixel-art world driven by real-world activity, combining animation, simulation, and health-data integration. | React Native · Expo · Apple Health · Fastify · oRPC · Drizzle · PostgreSQL |
+| Quest | What I'm building | Status | Stack |
+| --- | --- | --- | --- |
+| [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode) | A VS Code extension that explains every function of the open file side by side: plain English, pseudo English and pseudo code. | 🚀 Launching | TypeScript · VS Code API · TS Compiler API · Claude API |
+| [MyAnchor](https://github.com/haidarhmd1/MyAnchor-App) · [Try the app](https://app.myanchor-app.com/) | An AI-powered mobile web app with tools for people experiencing anxiety and panic. | 🟢 Live | Next.js · TypeScript · OpenAI APIs · Prisma · PostgreSQL |
+| PixelBuddy | A pixel-art world driven by real-world activity: animation, simulation and health-data integration. | 🧪 Prototype | React Native · Expo · Apple Health · Fastify · oRPC · Drizzle · PostgreSQL |
 
-## 🛠️ My toolkit
+## 🎒 Inventory
 
 **Interfaces:** React · Next.js App Router · React Native / Expo · TypeScript · Tailwind CSS · shadcn/ui  
 **Data & services:** TanStack Query · REST APIs · Node.js · Prisma · PostgreSQL  
 **AI:** LLM-powered workflows · structured outputs · conversational training · content generation · AI-assisted development
 
-## 🧭 Experience
+## 🏆 Quests completed
 
 - **Bounti:** conversational training and AI avatars, company news, learning experiences, assessment, and analytics.
 - **Routing & logistics:** road-network routing, scheduling constraints, traffic simulation, and map visualizations.
@@ -45,4 +70,8 @@ I love taking tools apart to see how they really work, whether it's a synthesize
 
 Designing decorative 3D printed objects · customizing digital synthesizers · electronic music · computer graphics · algorithms · martial arts · swimming
 
-[LinkedIn](https://www.linkedin.com/in/haidarhmd) · [MyAnchor](https://app.myanchor-app.com/)
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/haidarhmd) · [MyAnchor](https://app.myanchor-app.com/) · [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode)
+
+</div>
