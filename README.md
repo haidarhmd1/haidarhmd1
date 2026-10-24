@@ -1,48 +1,29 @@
 # Hey, I'm Haidar 👋
 
-```bash
-$ whoami
-haidar — AI-native Senior Software Engineer · computer-science enthusiast · tinkerer
+**Software engineer from Beirut based in Berlin. I build thoughtful interfaces, AI-powered products, and playful digital worlds.**
 
-$ cat location.txt
-Beirut 🇱🇧  →  Berlin 🇩🇪
+My home base is **React, Next.js, and TypeScript**. I follow features down the stack into APIs, Prisma, and PostgreSQL when the product needs it.
 
-$ uptime
-7+ years shipping TypeScript · React / Next.js · Node.js · PostgreSQL
-```
-
-I build **with** AI and **on** AI: AI-assisted development is part of how I engineer every day, and LLMs are a core part of the products I ship. Most recently: AI-native product work at a Berlin startup, turning LLM outputs into structured workflows, conversational training, content generation and analytics.
-
-I work closely with product, design, backend, AI and QA, and with stakeholders and the CTO, to move new concepts from prototype to shipped features.
-
-## 🧠 How I work
-
-1. Understand the business problem
-2. Define the technical guarantees a feature needs
-3. Choose an architecture by its trade-offs
-4. Build it with AI-assisted development
-5. Measure the result and own it in production
-
-## 🔧 Taking things apart
-
-I love taking tools apart to see how they really work underneath, whether it's a synthesizer, a 3D printer, an algorithm or a shader, and then asking the question that usually starts the next rabbit hole:
-**“What else can I make this do?”**
+I work primarily with React, Next.js and TypeScript, building scalable applications, UI systems, real-time features and AI-driven experiences.
+But what keeps me interested in technology goes much deeper than a particular stack. I’m fascinated by algorithms, computer graphics, hardware,
+systems, mathematics and game development, and especially by understanding how things work beneath the surface.
+I like building, experimenting and asking the question that usually gets me into another rabbit hole:
+“What else can I make this do?”
 
 ## 🎮 Current quests
 
-| Quest | What I'm building | Status | Stack |
-| --- | --- | --- | --- |
-| [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode) | A VS Code extension that explains every function of the open file side by side: plain English, pseudo English and pseudo code. | 🚀 Launching | TypeScript · VS Code API · TS Compiler API · Claude API |
-| [MyAnchor](https://github.com/haidarhmd1/MyAnchor-App) · [Try the app](https://app.myanchor-app.com/) | An AI-powered mobile web app with tools for people experiencing anxiety and panic. | 🟢 Live | Next.js · TypeScript · OpenAI APIs · Prisma · PostgreSQL |
-| PixelBuddy | A pixel-art world driven by real-world activity: animation, simulation and health-data integration. | 🧪 Prototype | React Native · Expo · Apple Health · Fastify · oRPC · Drizzle · PostgreSQL |
+| Project | What I'm building | Stack |
+| --- | --- | --- |
+| [MyAnchor](https://github.com/haidarhmd1/MyAnchor-App) · [Try the app](https://app.myanchor-app.com/) | An AI-powered mobile web app with tools for people experiencing anxiety and panic. | Next.js · TypeScript · OpenAI APIs · Prisma · PostgreSQL |
+| PixelBuddy — early prototype | A pixel-art world driven by real-world activity, combining animation, simulation, and health-data integration. | React Native · Expo · Apple Health · Fastify · oRPC · Drizzle · PostgreSQL |
 
-## 🎒 Inventory
+## 🛠️ My toolkit
 
 **Interfaces:** React · Next.js App Router · React Native / Expo · TypeScript · Tailwind CSS · shadcn/ui  
 **Data & services:** TanStack Query · REST APIs · Node.js · Prisma · PostgreSQL  
-**AI:** LLM-powered workflows · structured outputs · conversational training · content generation · AI-assisted development
+**AI experiences:** content-generation workflows · conversational training · assessment and feedback
 
-## 🏆 Quests completed
+## 🧭 Experience
 
 - **Bounti:** conversational training and AI avatars, company news, learning experiences, assessment, and analytics.
 - **Routing & logistics:** road-network routing, scheduling constraints, traffic simulation, and map visualizations.
@@ -52,10 +33,6 @@ I love taking tools apart to see how they really work underneath, whether it's a
 
 ## 🎛️ Side quests
 
-Designing decorative 3D printed objects · customizing digital synthesizers · electronic music · computer graphics · algorithms · martial arts · swimming
+Electronic music and digital synthesizers · decorative 3D printing · computer graphics · algorithms · martial arts · swimming
 
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/haidarhmd) · [MyAnchor](https://app.myanchor-app.com/) · [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/haidarhmd) · [MyAnchor](https://app.myanchor-app.com/)
