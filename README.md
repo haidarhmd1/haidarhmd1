@@ -1,19 +1,20 @@
 # Hey, I'm Haidar 👋
 
-**Software engineer from Beirut based in Berlin. I build thoughtful interfaces, AI-powered products, and playful digital worlds.**
+**Senior Software Engineer who takes products from initial uncertainty to systems running in production.**
 
-My home base is **React, Next.js, and TypeScript**. I follow features down the stack into APIs, Prisma, and PostgreSQL when the product needs it.
+I start by understanding the business problem, define the technical guarantees a feature needs, choose an architecture by its trade-offs, implement with AI-assisted development, then measure the result and own its operation.
 
-I work primarily with React, Next.js and TypeScript, building scalable applications, UI systems, real-time features and AI-driven experiences.
-But what keeps me interested in technology goes much deeper than a particular stack. I’m fascinated by algorithms, computer graphics, hardware,
-systems, mathematics and game development, and especially by understanding how things work beneath the surface.
-I like building, experimenting and asking the question that usually gets me into another rabbit hole:
-“What else can I make this do?”
+7+ years shipping TypeScript across React / Next.js frontends and Node.js backends with PostgreSQL. Most recently: AI-native product work at a Berlin startup, turning LLM outputs into structured workflows, conversational training, content generation and analytics.
+
+I work closely with product, design, backend, AI and QA, and with stakeholders and the CTO, to move new concepts from prototype to shipped features.
+
+Outside of work I design decorative 3D printed objects, customize digital synthesizers and take apart algorithms and 3D graphics for fun.
 
 ## 🎮 Current quests
 
 | Project | What I'm building | Stack |
 | --- | --- | --- |
+| [Pseudo View](https://github.com/haidarhmd1/pseudo-view-vscode) | A VS Code extension that explains every function of the open file side by side: plain English, pseudo English and pseudo code, with beginner tips and an overview of the whole file. | TypeScript · VS Code Extension API · TypeScript Compiler API · Claude API |
 | [MyAnchor](https://github.com/haidarhmd1/MyAnchor-App) · [Try the app](https://app.myanchor-app.com/) | An AI-powered mobile web app with tools for people experiencing anxiety and panic. | Next.js · TypeScript · OpenAI APIs · Prisma · PostgreSQL |
 | PixelBuddy — early prototype | A pixel-art world driven by real-world activity, combining animation, simulation, and health-data integration. | React Native · Expo · Apple Health · Fastify · oRPC · Drizzle · PostgreSQL |
 
