@@ -1,10 +1,4 @@
-<div align="center">
-
 # Hey, I'm Haidar 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=AI-native+Senior+Software+Engineer;Computer-science+enthusiast+%C2%B7+algorithms+%26+3D+graphics;I+take+things+apart+to+see+how+they+work;What+else+can+I+make+this+do%3F" alt="Typing intro" />
-
-</div>
 
 ```bash
 $ whoami
@@ -21,28 +15,18 @@ I build **with** AI and **on** AI: AI-assisted development is part of how I engi
 
 I work closely with product, design, backend, AI and QA, and with stakeholders and the CTO, to move new concepts from prototype to shipped features.
 
-## 🧠 How I work (in pseudo code, naturally)
+## 🧠 How I work
 
-```text
-FUNCTION ship(idea)
-  1. UNDERSTAND the business problem
-  2. DEFINE the technical guarantees the feature needs
-  3. CHOOSE an architecture by its trade-offs
-  4. BUILD it with AI-assisted development
-  5. MEASURE the result and OWN it in production
-  RETURN a system running in production
-END FUNCTION
-```
+1. Understand the business problem
+2. Define the technical guarantees a feature needs
+3. Choose an architecture by its trade-offs
+4. Build it with AI-assisted development
+5. Measure the result and own it in production
 
-## 🔧 Favourite loop: taking things apart
+## 🔧 Taking things apart
 
-```ts
-while (curious) {
-  const thing = pick([tool, synthesizer, printer3D, algorithm, shader]);
-  takeApart(thing);          // how does it really work underneath?
-  ask("What else can I make this do?");
-}
-```
+I love taking tools apart to see how they really work underneath, whether it's a synthesizer, a 3D printer, an algorithm or a shader, and then asking the question that usually starts the next rabbit hole:
+**“What else can I make this do?”**
 
 ## 🎮 Current quests
 
