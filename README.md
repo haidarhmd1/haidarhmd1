@@ -20,13 +20,11 @@ I like building, experimenting and asking the question that usually gets me into
 
 ### 🧪 Simulations & Playgrounds
 
-A series of self-hosted, hands-on playgrounds for understanding how things work beneath the surface: read it, watch it move, break it, then build it yourself. **1 of 3 live**, two more on the way.
+Self-hosted, hands-on playgrounds for understanding how things work beneath the surface: read it, watch it move, break it, then build it yourself.
 
 | Playground | What it teaches | Stack |
 | --- | --- | --- |
 | [ScaleStation](https://github.com/haidarhmd1/scalestation-system-design) | System design, from a single server to planet scale. 52 patterns with animated request flows, a live capacity simulator to push until it breaks, architecture styles compared side by side, and a hands-on track to build and grow your own system in TypeScript, Python or Go. | React · Vite · SVG · Docker · NGINX · Redis · PostgreSQL · Prometheus · Grafana · Terraform / OpenTofu |
-| 🔒 Playground #2 | Coming soon | — |
-| 🔒 Playground #3 | Coming soon | — |
 
 ## 🛠️ My toolkit
 
